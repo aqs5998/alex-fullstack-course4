@@ -1,0 +1,42 @@
+ul li { 
+    display: inline-block;
+    text-align: center;
+}
+
+span {
+    font-weight: 1100;
+    font-size: 130%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container{
+    background-color: ghostwhite;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-left: 500px;
+    padding-bottom: 30px;
+    margin: 0 auto 15px;
+}
+
+.row {
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 25px 100px 30px;;
+    margin: 0 auto 15px;
+}
+
+
+
+
+
+span {
+    position: relative;
+    text-align: center;
+}
+
+
+

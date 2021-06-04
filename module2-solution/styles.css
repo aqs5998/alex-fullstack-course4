@@ -38,12 +38,13 @@
     color: black;
   }
 
-  span {
+
+  #thirdHeading {
     margin-right: 0;
     margin-top: 0;
     margin-left: auto;
     border: 1px solid black;
-    background-color: salmon;
+    background-color: lightyellow;
     width: 25%;
     height: 25;
     text-align:  center;
@@ -105,6 +106,7 @@
       width: 48%;
     }
     .col-md-3 {
+        
       width: 97%;
     }
 
